@@ -3,6 +3,7 @@
 This repository is organized under `library/` by topic.
 
 ## atheism
+
 - AtheismIslam_ShoaibMalik.pdf
 - Ten-Proofs-for-The-Existence-of-God.pdf
 - The Divine Reality PDF.pdf
@@ -10,19 +11,22 @@ This repository is organized under `library/` by topic.
 - en-islam-vs-atheism.pdf
 
 ## christianity
+
 - 101 Contradictions In The Bible.pdf
 - Answers to Born Again Preachers.pdf
 - Is The Trinity Doctrine Divinely Inspired.pdf
 - en-the-true-message-of-jesus-christ.pdf
 
 ## comparative-religion
+
 - Kellogg,+Samuel+Henry,+A+Handbook+of+Comparative+Religion.pdf
-- Noor-Book.com  الإسلام والأديان دراسة مقارنة 3 .pdf
-- Noor-Book.com  علم مقارنة الأديان عند مفكري الإسلام 2 .pdf
+- Noor-Book.com الإسلام والأديان دراسة مقارنة 3 .pdf
+- Noor-Book.com علم مقارنة الأديان عند مفكري الإسلام 2 .pdf
 - the-choice-islam-and-christianity-volume-one.pdf
 - the-choice-islam-and-christianity-volume-two.pdf
 
 ## hadith/sahih-bukhari/english
+
 - SahihAl-bukhariVol.1-Ahadith1-875.pdf
 - SahihAl-bukhariVol.2-Ahadith876-1772.pdf
 - SahihAl-bukhariVol.3-Ahadith1773-2737.pdf
@@ -34,6 +38,7 @@ This repository is organized under `library/` by topic.
 - SahihAl-bukhariVol.9-Ahadith6861-7563.pdf
 
 ## hadith/sahih-bukhari/urdu
+
 - Sahi-Bukhari-Jilad-1.pdf
 - Sahi-Bukhari-Jilad-2.pdf
 - Sahi-Bukhari-Jilad-3.pdf
@@ -42,23 +47,40 @@ This repository is organized under `library/` by topic.
 - Sahi-Bukhari-Jilad-6.pdf
 
 ## islam
+
 - 10-Answer_to_an_enemy_of_islam_07_02_2022 2.pdf
 - 16-Why_Did_They_Become_Muslims_07_02_2022 2.pdf
 - 18-Sahaba_The_Blessed_07_02_2022 (1) 2.pdf
 - 8-Belief_and_Islam_25_02_2025 2.pdf
 - IIA-2-Contents.pdf
-- Izhar_ul_Haq_[eng].pdf
+- Izhar*ul_Haq*[eng].pdf
 - Just One Message.pdf
-- Noor-Book.com  الإسلام ومصير الإنسان.pdf
-- Noor-Book.com  المسيح في الإسلام 2 .pdf
+- Noor-Book.com الإسلام ومصير الإنسان.pdf
+- Noor-Book.com المسيح في الإسلام 2 .pdf
 
 ## islam/seerah
+
 - English_ArRaheeq_AlMakhtum_THE_SEALED_NECTAR 2.pdf
 
+## islamic-books
+
+- 33 lessons for every muslim.pdf
+- A Message To Every Youth.pdf
+- Appeal to Sense of Shame.pdf
+- Beautiful patience (Tafsir of Surah yusuf) Part 1.pdf
+- Beautiful patience (Tafsir of Surah yusuf) Part 2.pdf
+- Izhar*ul_Haq*[eng].pdf
+- sahih-al-bukhari-volume-3-ahadith-1773-2737.pdf
+- surah_19_maryam_urdu_tarjuma.pdf
+- Ten-Proofs-for-The-Existence-of-God.pdf
+- The-Divine-Reality-Sapience-Institute-October-2020-v1.1.pdf
+
 ## philosophy
+
 - Al Ghazali Incoherence of the Philosophers.pdf
 - Kalam.pdf
 - Marcus_Aurelius_Antoninus_to_Himself.pdf
 
 ## social-questions
-- FINAL_-Why-Do-People-Suffer_-Gods-Existence-the-Problem-of-Evil-2.pdf
+
+- FINAL*-Why-Do-People-Suffer*-Gods-Existence-the-Problem-of-Evil-2.pdf
